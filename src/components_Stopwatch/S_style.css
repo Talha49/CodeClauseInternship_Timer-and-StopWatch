@@ -1,0 +1,53 @@
+
+.container{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+  
+    
+  }
+  
+  .box-sec {
+    box-shadow: 0 0 10px rgb(159, 136, 136);
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #b4a9b7;
+    height: 40vh;
+    width: 60vh;
+  }
+  
+  .stopwatch {
+    box-shadow: 0 0 5px rgba(150, 110, 110, 0.954);
+    background-color: #b5adb8;
+    padding: 15px;
+    border-radius: 3px;
+     margin-top: 10vh;
+  }
+  .Display {
+    font-size: 24px;
+    font-weight: bold;
+  }
+ .times span{
+    font-size: 2rem;
+ }
+
+
+  .butn button{
+    margin: 30px 10px;
+    font-size: large;
+    background-color: #746377;
+    color: aliceblue;
+    padding: 10px;
+    width: 17vh;
+    outline: none;
+    border-radius: 4px;
+    border: 1px;
+  }
+  
+  .Button {
+    
+    
+    margin-top: 10px;
+  }
